@@ -1,0 +1,445 @@
+train: (300000, 128) test: (10000, 128) neighbors: (10000, 100)
+Inserting data point: 0
+Inserting data point: 1000
+Inserting data point: 2000
+Inserting data point: 3000
+Inserting data point: 4000
+Inserting data point: 5000
+Inserting data point: 6000
+Inserting data point: 7000
+Inserting data point: 8000
+Inserting data point: 9000
+Inserting data point: 10000
+Inserting data point: 11000
+Inserting data point: 12000
+Inserting data point: 13000
+Inserting data point: 14000
+Inserting data point: 15000
+Inserting data point: 16000
+Inserting data point: 17000
+Inserting data point: 18000
+Inserting data point: 19000
+Inserting data point: 20000
+Inserting data point: 21000
+Inserting data point: 22000
+Inserting data point: 23000
+Inserting data point: 24000
+Inserting data point: 25000
+Inserting data point: 26000
+Inserting data point: 27000
+Inserting data point: 28000
+Inserting data point: 29000
+Inserting data point: 30000
+Inserting data point: 31000
+Inserting data point: 32000
+Inserting data point: 33000
+Inserting data point: 34000
+Inserting data point: 35000
+Inserting data point: 36000
+Inserting data point: 37000
+Inserting data point: 38000
+Inserting data point: 39000
+Inserting data point: 40000
+Inserting data point: 41000
+Inserting data point: 42000
+Inserting data point: 43000
+Inserting data point: 44000
+Inserting data point: 45000
+Inserting data point: 46000
+Inserting data point: 47000
+Inserting data point: 48000
+Inserting data point: 49000
+Inserting data point: 50000
+Inserting data point: 51000
+Inserting data point: 52000
+Inserting data point: 53000
+Inserting data point: 54000
+Inserting data point: 55000
+Inserting data point: 56000
+Inserting data point: 57000
+Inserting data point: 58000
+Inserting data point: 59000
+Inserting data point: 60000
+Inserting data point: 61000
+Inserting data point: 62000
+Inserting data point: 63000
+Inserting data point: 64000
+Inserting data point: 65000
+Inserting data point: 66000
+Inserting data point: 67000
+Inserting data point: 68000
+Inserting data point: 69000
+Inserting data point: 70000
+Inserting data point: 71000
+Inserting data point: 72000
+Inserting data point: 73000
+Inserting data point: 74000
+Inserting data point: 75000
+Inserting data point: 76000
+Inserting data point: 77000
+Inserting data point: 78000
+Inserting data point: 79000
+Inserting data point: 80000
+Inserting data point: 81000
+Inserting data point: 82000
+Inserting data point: 83000
+Inserting data point: 84000
+Inserting data point: 85000
+Inserting data point: 86000
+Inserting data point: 87000
+Inserting data point: 88000
+Inserting data point: 89000
+Inserting data point: 90000
+Inserting data point: 91000
+Inserting data point: 92000
+Inserting data point: 93000
+Inserting data point: 94000
+Inserting data point: 95000
+Inserting data point: 96000
+Inserting data point: 97000
+Inserting data point: 98000
+Inserting data point: 99000
+Inserting data point: 100000
+Inserting data point: 101000
+Inserting data point: 102000
+Inserting data point: 103000
+Inserting data point: 104000
+Inserting data point: 105000
+Inserting data point: 106000
+Inserting data point: 107000
+Inserting data point: 108000
+Inserting data point: 109000
+Inserting data point: 110000
+Inserting data point: 111000
+Inserting data point: 112000
+Inserting data point: 113000
+Inserting data point: 114000
+Inserting data point: 115000
+Inserting data point: 116000
+Inserting data point: 117000
+Inserting data point: 118000
+Inserting data point: 119000
+Inserting data point: 120000
+Inserting data point: 121000
+Inserting data point: 122000
+Inserting data point: 123000
+Inserting data point: 124000
+Inserting data point: 125000
+Inserting data point: 126000
+Inserting data point: 127000
+Inserting data point: 128000
+Inserting data point: 129000
+Inserting data point: 130000
+Inserting data point: 131000
+Inserting data point: 132000
+Inserting data point: 133000
+Inserting data point: 134000
+Inserting data point: 135000
+Inserting data point: 136000
+Inserting data point: 137000
+Inserting data point: 138000
+Inserting data point: 139000
+Inserting data point: 140000
+Inserting data point: 141000
+Inserting data point: 142000
+Inserting data point: 143000
+Inserting data point: 144000
+Inserting data point: 145000
+Inserting data point: 146000
+Inserting data point: 147000
+Inserting data point: 148000
+Inserting data point: 149000
+Inserting data point: 150000
+Inserting data point: 151000
+Inserting data point: 152000
+Inserting data point: 153000
+Inserting data point: 154000
+Inserting data point: 155000
+Inserting data point: 156000
+Inserting data point: 157000
+Inserting data point: 158000
+Inserting data point: 159000
+Inserting data point: 160000
+Inserting data point: 161000
+Inserting data point: 162000
+Inserting data point: 163000
+Inserting data point: 164000
+Inserting data point: 165000
+Inserting data point: 166000
+Inserting data point: 167000
+Inserting data point: 168000
+Inserting data point: 169000
+Inserting data point: 170000
+Inserting data point: 171000
+Inserting data point: 172000
+Inserting data point: 173000
+Inserting data point: 174000
+Inserting data point: 175000
+Inserting data point: 176000
+Inserting data point: 177000
+Inserting data point: 178000
+Inserting data point: 179000
+Inserting data point: 180000
+Inserting data point: 181000
+Inserting data point: 182000
+Inserting data point: 183000
+Inserting data point: 184000
+Inserting data point: 185000
+Inserting data point: 186000
+Inserting data point: 187000
+Inserting data point: 188000
+Inserting data point: 189000
+Inserting data point: 190000
+Inserting data point: 191000
+Inserting data point: 192000
+Inserting data point: 193000
+Inserting data point: 194000
+Inserting data point: 195000
+Inserting data point: 196000
+Inserting data point: 197000
+Inserting data point: 198000
+Inserting data point: 199000
+Inserting data point: 200000
+Inserting data point: 201000
+Inserting data point: 202000
+Inserting data point: 203000
+Inserting data point: 204000
+Inserting data point: 205000
+Inserting data point: 206000
+Inserting data point: 207000
+Inserting data point: 208000
+Inserting data point: 209000
+Inserting data point: 210000
+Inserting data point: 211000
+Inserting data point: 212000
+Inserting data point: 213000
+Inserting data point: 214000
+Inserting data point: 215000
+Inserting data point: 216000
+Inserting data point: 217000
+Inserting data point: 218000
+Inserting data point: 219000
+Inserting data point: 220000
+Inserting data point: 221000
+Inserting data point: 222000
+Inserting data point: 223000
+Inserting data point: 224000
+Inserting data point: 225000
+Inserting data point: 226000
+Inserting data point: 227000
+Inserting data point: 228000
+Inserting data point: 229000
+Inserting data point: 230000
+Inserting data point: 231000
+Inserting data point: 232000
+Inserting data point: 233000
+Inserting data point: 234000
+Inserting data point: 235000
+Inserting data point: 236000
+Inserting data point: 237000
+Inserting data point: 238000
+Inserting data point: 239000
+Inserting data point: 240000
+Inserting data point: 241000
+Inserting data point: 242000
+Inserting data point: 243000
+Inserting data point: 244000
+Inserting data point: 245000
+Inserting data point: 246000
+Inserting data point: 247000
+Inserting data point: 248000
+Inserting data point: 249000
+Inserting data point: 250000
+Inserting data point: 251000
+Inserting data point: 252000
+Inserting data point: 253000
+Inserting data point: 254000
+Inserting data point: 255000
+Inserting data point: 256000
+Inserting data point: 257000
+Inserting data point: 258000
+Inserting data point: 259000
+Inserting data point: 260000
+Inserting data point: 261000
+Inserting data point: 262000
+Inserting data point: 263000
+Inserting data point: 264000
+Inserting data point: 265000
+Inserting data point: 266000
+Inserting data point: 267000
+Inserting data point: 268000
+Inserting data point: 269000
+Inserting data point: 270000
+Inserting data point: 271000
+Inserting data point: 272000
+Inserting data point: 273000
+Inserting data point: 274000
+Inserting data point: 275000
+Inserting data point: 276000
+Inserting data point: 277000
+Inserting data point: 278000
+Inserting data point: 279000
+Inserting data point: 280000
+Inserting data point: 281000
+Inserting data point: 282000
+Inserting data point: 283000
+Inserting data point: 284000
+Inserting data point: 285000
+Inserting data point: 286000
+Inserting data point: 287000
+Inserting data point: 288000
+Inserting data point: 289000
+Inserting data point: 290000
+Inserting data point: 291000
+Inserting data point: 292000
+Inserting data point: 293000
+Inserting data point: 294000
+Inserting data point: 295000
+Inserting data point: 296000
+Inserting data point: 297000
+Inserting data point: 298000
+Inserting data point: 299000
+Inserting Cluster Number:  0
+Inserting Cluster Number:  1
+Inserting Cluster Number:  2
+Inserting Cluster Number:  3
+Inserting Cluster Number:  4
+Inserting Cluster Number:  5
+Inserting Cluster Number:  6
+Inserting Cluster Number:  7
+Inserting Cluster Number:  8
+Inserting Cluster Number:  9
+Inserting Cluster Number:  10
+Inserting Cluster Number:  11
+Inserting Cluster Number:  12
+Inserting Cluster Number:  13
+Inserting Cluster Number:  14
+Inserting Cluster Number:  15
+Inserting Cluster Number:  16
+Inserting Cluster Number:  17
+Inserting Cluster Number:  18
+Inserting Cluster Number:  19
+Inserting Cluster Number:  20
+Inserting Cluster Number:  21
+Inserting Cluster Number:  22
+Inserting Cluster Number:  23
+Inserting Cluster Number:  24
+Inserting Cluster Number:  25
+Inserting Cluster Number:  26
+Inserting Cluster Number:  27
+Inserting Cluster Number:  28
+Inserting Cluster Number:  29
+Inserting Cluster Number:  30
+Inserting Cluster Number:  31
+Inserting Cluster Number:  32
+Inserting Cluster Number:  33
+Inserting Cluster Number:  34
+Inserting Cluster Number:  35
+Inserting Cluster Number:  36
+Inserting Cluster Number:  37
+Inserting Cluster Number:  38
+Inserting Cluster Number:  39
+Inserting Cluster Number:  40
+Inserting Cluster Number:  41
+Inserting Cluster Number:  42
+Inserting Cluster Number:  43
+Inserting Cluster Number:  44
+Inserting Cluster Number:  45
+Inserting Cluster Number:  46
+Inserting Cluster Number:  47
+Inserting Cluster Number:  48
+Inserting Cluster Number:  49
+Inserting Cluster Number:  50
+Inserting Cluster Number:  51
+Inserting Cluster Number:  52
+Inserting Cluster Number:  53
+Inserting Cluster Number:  54
+Inserting Cluster Number:  55
+Inserting Cluster Number:  56
+Inserting Cluster Number:  57
+Inserting Cluster Number:  58
+Inserting Cluster Number:  59
+Inserting Cluster Number:  60
+Inserting Cluster Number:  61
+Inserting Cluster Number:  62
+Inserting Cluster Number:  63
+Inserting Cluster Number:  64
+Inserting Cluster Number:  65
+Inserting Cluster Number:  66
+Inserting Cluster Number:  67
+Inserting Cluster Number:  68
+Inserting Cluster Number:  69
+Inserting Cluster Number:  70
+Inserting Cluster Number:  71
+Inserting Cluster Number:  72
+Inserting Cluster Number:  73
+Inserting Cluster Number:  74
+Inserting Cluster Number:  75
+Inserting Cluster Number:  76
+Inserting Cluster Number:  77
+Inserting Cluster Number:  78
+Inserting Cluster Number:  79
+Inserting Cluster Number:  80
+Inserting Cluster Number:  81
+Inserting Cluster Number:  82
+Inserting Cluster Number:  83
+Inserting Cluster Number:  84
+Inserting Cluster Number:  85
+Inserting Cluster Number:  86
+Inserting Cluster Number:  87
+Inserting Cluster Number:  88
+Inserting Cluster Number:  89
+Inserting Cluster Number:  90
+Inserting Cluster Number:  91
+Inserting Cluster Number:  92
+Inserting Cluster Number:  93
+Inserting Cluster Number:  94
+Inserting Cluster Number:  95
+Inserting Cluster Number:  96
+Inserting Cluster Number:  97
+Inserting Cluster Number:  98
+Inserting Cluster Number:  99
+[MixedClustered] Phase 1: inserting seeds per cluster: {0: 659, 1: 513, 2: 457, 3: 411, 4: 525, 5: 1039, 6: 766, 7: 586, 8: 713, 9: 466, 10: 911, 11: 712, 12: 532, 13: 675, 14: 533, 15: 792, 16: 552, 17: 503, 18: 680, 19: 679, 20: 545, 21: 808, 22: 519, 23: 653, 24: 315, 25: 567, 26: 526, 27: 531, 28: 802, 29: 364, 30: 836, 31: 521, 32: 644, 33: 791, 34: 608, 35: 804, 36: 464, 37: 490, 38: 441, 39: 425, 40: 507, 41: 573, 42: 622, 43: 926, 44: 524, 45: 395, 46: 228, 47: 859, 48: 577, 49: 720, 50: 514, 51: 302, 52: 465, 53: 471, 54: 602, 55: 663, 56: 469, 57: 653, 58: 542, 59: 471, 60: 459, 61: 652, 62: 577, 63: 406, 64: 580, 65: 566, 66: 375, 67: 385, 68: 627, 69: 435, 70: 501, 71: 825, 72: 619, 73: 808, 74: 1015, 75: 821, 76: 922, 77: 838, 78: 530, 79: 465, 80: 566, 81: 565, 82: 602, 83: 419, 84: 862, 85: 652, 86: 452, 87: 693, 88: 517, 89: 899, 90: 696, 91: 529, 92: 611, 93: 700, 94: 457, 95: 437, 96: 741, 97: 456, 98: 505, 99: 755}
+[MixedClustered] Phase 2: inserting remaining items per cluster: {0: 2638, 1: 2055, 2: 1829, 3: 1644, 4: 2103, 5: 4160, 6: 3065, 7: 2346, 8: 2854, 9: 1864, 10: 3647, 11: 2849, 12: 2131, 13: 2701, 14: 2135, 15: 3171, 16: 2209, 17: 2016, 18: 2722, 19: 2716, 20: 2182, 21: 3235, 22: 2076, 23: 2613, 24: 1263, 25: 2272, 26: 2104, 27: 2125, 28: 3212, 29: 1458, 30: 3345, 31: 2086, 32: 2578, 33: 3167, 34: 2433, 35: 3218, 36: 1859, 37: 1963, 38: 1766, 39: 1704, 40: 2032, 41: 2293, 42: 2491, 43: 3705, 44: 2097, 45: 1582, 46: 912, 47: 3438, 48: 2309, 49: 2884, 50: 2057, 51: 1209, 52: 1862, 53: 1885, 54: 2410, 55: 2653, 56: 1876, 57: 2616, 58: 2171, 59: 1888, 60: 1839, 61: 2608, 62: 2310, 63: 1627, 64: 2321, 65: 2264, 66: 1500, 67: 1542, 68: 2508, 69: 1742, 70: 2006, 71: 3304, 72: 2476, 73: 3236, 74: 4062, 75: 3284, 76: 3690, 77: 3356, 78: 2123, 79: 1860, 80: 2267, 81: 2262, 82: 2408, 83: 1680, 84: 3451, 85: 2608, 86: 1811, 87: 2774, 88: 2071, 89: 3597, 90: 2784, 91: 2117, 92: 2445, 93: 2803, 94: 1828, 95: 1752, 96: 2965, 97: 1828, 98: 2022, 99: 3024}
+Inserting remaining items of Cluster Number:  0
+Inserting remaining items of Cluster Number:  1
+Inserting remaining items of Cluster Number:  2
+Inserting remaining items of Cluster Number:  3
+Inserting remaining items of Cluster Number:  4
+Inserting remaining items of Cluster Number:  5
+Inserting remaining items of Cluster Number:  6
+Inserting remaining items of Cluster Number:  7
+Inserting remaining items of Cluster Number:  8
+Inserting remaining items of Cluster Number:  9
+Inserting remaining items of Cluster Number:  10
+Inserting remaining items of Cluster Number:  11
+Inserting remaining items of Cluster Number:  12
+Inserting remaining items of Cluster Number:  13
+Inserting remaining items of Cluster Number:  14
+Inserting remaining items of Cluster Number:  15
+Inserting remaining items of Cluster Number:  16
+Inserting remaining items of Cluster Number:  17
+Inserting remaining items of Cluster Number:  18
+Inserting remaining items of Cluster Number:  19
+Inserting remaining items of Cluster Number:  20
+Inserting remaining items of Cluster Number:  21
+Inserting remaining items of Cluster Number:  22
+Inserting remaining items of Cluster Number:  23
+Inserting remaining items of Cluster Number:  24
+Inserting remaining items of Cluster Number:  25
+Inserting remaining items of Cluster Number:  26
+Inserting remaining items of Cluster Number:  27
+Inserting remaining items of Cluster Number:  28
+Inserting remaining items of Cluster Number:  29
+Inserting remaining items of Cluster Number:  30
+Inserting remaining items of Cluster Number:  31
+Inserting remaining items of Cluster Number:  32
+Inserting remaining items of Cluster Number:  33
+Inserting remaining items of Cluster Number:  34
+Inserting remaining items of Cluster Number:  35
+Inserting remaining items of Cluster Number:  36
+Inserting remaining items of Cluster Number:  37
+Inserting remaining items of Cluster Number:  38
+Inserting remaining items of Cluster Number:  39
+Inserting remaining items of Cluster Number:  40
+Inserting remaining items of Cluster Number:  41
